@@ -1,0 +1,10 @@
+# ARCagent — core dependencies for the released components
+#
+# kb_construction/: KB ingestion + retroactive tagging
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+pypdf>=3.17
+
+# agent/: conflict-aware retrieval
+rank-bm25>=0.2.2
