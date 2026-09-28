@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-genomic_kb.py — Aim 3: Genomically Informed RAG Knowledge Base
-===============================================================
+genomic_kb.py — Genomically Informed RAG Knowledge Base
+========================================================
 Curated pathway-level summaries from ME/CFS multi-omics literature.
 These chunks extend the guideline knowledge base so the RAG system can
 respond to mechanistic queries (e.g. "Why do I feel worse after exercise?")

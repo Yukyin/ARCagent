@@ -103,7 +103,7 @@ def extract_focus_terms(query: str) -> Dict[str, bool]:
             "working part-time", "mostly functional", "mild symptoms",
             "mild me", "mild cfs", "managing",
         ),
-        # Genomic / biological queries (Aim 3)
+        # Genomic / biological queries
         "genomic": has(
             "gene", "genetic", "genomic", "dna", "rna", "transcriptomic",
             "epigenetic", "methylation", "snp", "variant", "pathway",

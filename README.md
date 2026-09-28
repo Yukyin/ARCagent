@@ -2,7 +2,7 @@
 
 This repository contains the core methodology code for ARCagent, an
 adaptive retrieval calibration clinical question-answering agent for
-ME/CFS, accompanying our EMNLP submission. It is a cleaned, minimal
+ME/CFS, accompanying the paper. It is a cleaned, minimal
 subset of the project's codebase: raw PDFs, crawled guideline text,
 analysis outputs, logs, and benchmark result files have been removed.
 The scripts here implement the methodology described in the paper;
@@ -38,7 +38,7 @@ eval/
                             25 offline test cases covering the four
                             registered conflict zones and a set of
                             negative (no-false-positive) queries
-                            (Appendix: Conflict Detection Test).
+                            (Section 6, Conflict Detection Test).
 ```
 
 ## Running the conflict-registry tests
